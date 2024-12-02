@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    private let isActive: Bool = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
